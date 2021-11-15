@@ -1,5 +1,5 @@
 title: Anh Pham Tuan
-description: Deep Learning
+description: Artificial intelligence , Deep Learning , Machine Learning
 show_downloads: false
 
 baseurl: # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -19,9 +19,3 @@ image: /thumbnail-jumbo.png
 twitter:
   username: anh_ph_tu
 #  site:
-facebook:
-  #publisher: 1592372034171500
-  #profile_id: 1809805629
-  app_id: 100005077264557 # cayman-blog
-  #authors: lorepirri
-#  admins:
