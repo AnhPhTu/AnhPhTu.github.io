@@ -6,6 +6,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+<p align="center">
+  <img src="https://drive.google.com/file/d/1iIsRuvnSWEk6MIhEblFJeDB_zm87mLJ2/view" width="250" alt="accessibility text">
+</p>
 ---
 
 
