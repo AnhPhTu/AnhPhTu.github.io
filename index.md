@@ -31,7 +31,12 @@ Currently, I am looking for a job as a Fresher in the field of AI & ML. The topi
 ------
 ## Experience
 
+Intership 
+  * At school
+  * Time : Aug 2020 - Sep 2020
+  * Research (read articles, deploy) on virtual sample generation methods and Algorithms for Face Recognition problems.
 
+  
 
 
 ------
