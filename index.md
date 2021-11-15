@@ -6,11 +6,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+
+---
 <p align="center">
   <img src="https://drive.google.com/file/d/1iIsRuvnSWEk6MIhEblFJeDB_zm87mLJ2/view" width="250" alt="accessibility text">
 </p>
----
-
 
 I am Anh Pham Tuan (first, last, and middle name) from Ho Chi Minh city, Vietnam. I have recently received my bachelor degree in Electronics and Telecommunications Engineering at the Ho Chi Minh city University of Technology.
 
