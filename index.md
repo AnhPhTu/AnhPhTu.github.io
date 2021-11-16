@@ -22,7 +22,7 @@ Currently, I am looking for a job as a Fresher in the field of AI & ML. The topi
 
 
 ### Ho Chi Minh city University of Technology, Vietnam
-* Time: Sep 2017 – August 201
+* Time: Sep 2017 – August 2021
 * Bachelor of Engineering in Electronics and Telecommunications Engineering
 * GPA: 6.71/10.0  
 
