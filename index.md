@@ -14,7 +14,7 @@ layout: home
 
 I am Anh Pham Tuan (first, last, and middle name) from Ho Chi Minh city, Vietnam. I have recently received my bachelor degree in Electronics and Telecommunications Engineering at the Ho Chi Minh city University of Technology.
 
-Currently, I am looking for a job as a Fresher in the field of AI & ML. The topics I am interested in are Classification, Regression and Recognition.
+Currently, I am looking for a job as a Fresher in the field of AI & ML. The topics I am interested in are Classification, Regression, Detection and Recognition.
 
 
 ------
