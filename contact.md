@@ -11,7 +11,7 @@ order: 4
 [2]: http://i.imgur.com/wWzX9uB.png
 
 
-<!-- [![alt text][1]]() GitHub: [https://github.com/thuyngch](https://github.com/thuyngch) -->
+
 GitHub: [https://github.com/AnhPhTu](https://github.com/AnhPhTu)
 
 Twitter: [https://twitter.com/anh_ph_tu](https://twitter.com/anh_ph_tu)
