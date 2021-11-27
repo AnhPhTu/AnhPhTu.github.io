@@ -11,9 +11,9 @@ order: 3
 [2]: http://i.imgur.com/wWzX9uB.png
 
 
-CV: [Click here](https://drive.google.com/file/d/1tVVJt6-SjgWUJp-Mo7wB1a2udSjOHJ6A/view?usp=sharing)
+Get my CV: [Click here](https://drive.google.com/file/d/1tVVJt6-SjgWUJp-Mo7wB1a2udSjOHJ6A/view?usp=sharing)
 
-Graduation papers: [Click here](https://drive.google.com/file/d/1exySXZn5-mFR9Kwp3GOsVKIkgmY7KOUl/view?usp=sharing)
+Check my Graduation papers: [Click here](https://drive.google.com/file/d/1exySXZn5-mFR9Kwp3GOsVKIkgmY7KOUl/view?usp=sharing)
 
 
 
