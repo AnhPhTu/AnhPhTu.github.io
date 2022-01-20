@@ -22,4 +22,6 @@ Facebook : [https://www.facebook.com/pham.tuananh.1209/](https://www.facebook.co
 
 Mail: [phamtuananh9a9@gmail.com]()
 
+Phone Number: 098155493
+
 [Go to the Home Page]({{ '/' | absolute_url }})
