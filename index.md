@@ -43,7 +43,7 @@ Graduation internship
 
 
 ------
-## Techicain skill
+## Technicain skill
 
 Language: Python, SQL(Self-study at https://codelearn.io/learning/lam-quen-voi-sql)
 
