@@ -43,7 +43,12 @@ Graduation internship
 
 
 ------
+## Techicain skill
 
+Language: Python, SQL(Self-study at https://codelearn.io/learning/lam-quen-voi-sql)
+Framework: TensorFlow, Pytorch
+General: Machine Learning, Deep Learning, Computer Vision, and Image Processing.
+Certificate: TOEIC 730
 
 
 
