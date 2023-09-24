@@ -14,9 +14,9 @@ layout: home
 
 I am Anh Pham Tuan (first, last, and middle name) from Ho Chi Minh city, Vietnam. I have recently received my bachelor degree in Electronics and Telecommunications Engineering at the Ho Chi Minh city University of Technology.
 
-I am a person who loves technology and willing to learn new things. My hobbies are watching movies, listening to music and learning about technology.
+I am a person who loves technology and willing to learn new things. My hobbies are watching movies, listening to music, photography and learning about technology.
 
-Currently, I am looking for a position as a Fresher in the field of AI & ML. The topics I am interested in are Classification, Detection, Recognition and NLP.
+Currently, I am looking for a position as a Front End Developer. The topics I am interested in are AI (Classification, Detection, Recognition and NLP).
 
 
 
