@@ -9,7 +9,7 @@ layout: home
 
 ---
 <p align="center">
-  <img src="https://drive.google.com/file/d/1cHZKdHh4eWqre3_PwNxq8_q8GWi4-qDm/view?fbclid=IwAR0vytCiW4ev_WQ7WIjqmc9bb3dOSNfvRZAEQ43nW6ymnYw6NK_fLwomH8Y&pli=1">
+  <img src="https://lh3.googleusercontent.com/pw/ADCreHfY4Gj3C3WV5gx0HobTPUBNMujQzTi8SNxLx370Me3c9ABglba3y4av3gCtUgpwQrCRtofTQIT4jS91q6wuegn_NX-up2u_I-wAKVnIFcQR1-oWKYXD9_1TRKvkAx7ucnnbCwYk2JWX9nSfOm8vfIHijx5g-XqVSImr_-lryqH2fEj9hqlDAX5oecae0EjKHEGiLp03z8gHdWhZWVgS1mnJq5AodOzrS-Ijsippl8TljbmYwxRnAXfelK8L-e0YMcnh_JakQtOTDAwKP-aiMsDfoe1VUmDGF2Kc_gmLAMr3eI8zJB4yHx55V1TzGMKvld1kXKkCgmFaCtX8hX52IJUmmGxwNdDqVwCh27L-5iTujJSw2HXYR6qRz3j-LWrJ1hKbLk1Dplf2Q9aT0H_ExqpbzR2f05uQ9_bc0mGG2t8CZ10BitbCt3sbV-mdjjIWfxLyaViDBeXvZhp9ak2D8r6TSwclGhPw6ozUyddZtt4f9weHC1net2zEGZWKgGLkyqDifiO3-kuJfD_BG18IfuuVdOMHGHIh-Xb8-lOFa8SOhLbUkRD56Ycl97XQWElz1sp7cZh9hawA4RjuN-oHnruK8V7XG6IYgApky40FayZ7ZfuM-CHKiovJNOB_seTuwgIrjG_SSJ9Jr1OBXRMyHZe-ibq6Ka0mjSh-eR5gdQSvIBAilB0MseV_KALLNsuwaPdcZGNruLCLsnfWONw8d4CYBWIoI6LnOSOLXLhV7N_71YP8qB7o63TkAf610Rb-KFniiEu-rXzggaktWB_WsSOJnTf-9DS3MifAsRTAYfEa9h-qTl1r1dFPvpJeKBiGhg7YKXvjB_HGzo-NLnCHTQTw_UMWgjnqlAEIzvcRA6n9gcGe7UuCDi0ucQG1hS37RWajRBZGz4tuuuz-cc6zL8___E0LGiywi9iQMDGmCzgYqSHyrIYYAr9I_wUV6g=w657-h821-s-no?authuser=1">
 </p>
 
 I am Anh Pham Tuan (first, last, and middle name) from Ho Chi Minh city, Vietnam. I have recently received my bachelor degree in Electronics and Telecommunications Engineering at the Ho Chi Minh city University of Technology.
