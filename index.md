@@ -9,7 +9,7 @@ layout: home
 
 ---
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/9Bhji6muyQEOIiAGIaKCH1PlpsT4PKQc4f1nzzMYWC4-VxVr5XjhZxDQfisTe8VPUx54cWrmvwdEaQ0yq0U5lXyNjNwFT9PVNsjbhZogu8VJhMOeuKUynWJ6ZWjKIllnhNWBcltPBoc--gPi3lu9C7GZ66mnR6espDOKgz6508bPkzt3iH2GaFcSvpBXli0kdmVx6wPuHmSbKhhez6hoiw8uiVShsTuiCRTZ1VSS7-LBco8OyoMt1IfDPMnP6JNF1iNSKAy9FA0yppG4baFPr8f0WIYCIF2DZUcD6T9iPby29WBQTrSAG7_L0Yi_PiHPod_HQfeeKVRf8tUHbqevcn4_RA3tgbwPUi2lZEH0d9BYHInwPj8KpXqc0W-gfxXEZTL1V3kHQY8VhE_k_3X2z9cKMBPU2SwSTeSEtFsvSCBz8-RLmtc3IlrzdefzI1TsxtGMGwlzVflkXDhMMwnw7fooStUAadoXRzMJhkItCMobHCcoLXwBz74NQXKCcxS0a2q5-yHvJHtCdcoXaITZ7hfy0XAXTZKdpt6QMoJf55P5v7NloIBAHQEjqyZOwDjW8AOlxyHcoxmBpj_VCKDEs-z-_ZheIgoWvbJcsdaZv2BU9d1i_cnb-36CrOTQD2yx-YCa8iuOKYH7Tp4Qm1F9_yJtE0C10nLvp31knMSr0nyRGlNwGpRLt845JfksETOzzrcWTjD5ecmt0LACOVrNyabWvs2T2-KT5-M_uMoiJjMc7VWpc1qWWEGRc-St-68DuxK35eBG-qRxxfrsOd5MvCveplPG0eOr7Iw=w791-h667-no?authuser=0" width="250" alt="accessibility text">
+  <img src="https://drive.google.com/file/d/1cHZKdHh4eWqre3_PwNxq8_q8GWi4-qDm/view?fbclid=IwAR0vytCiW4ev_WQ7WIjqmc9bb3dOSNfvRZAEQ43nW6ymnYw6NK_fLwomH8Y&pli=1">
 </p>
 
 I am Anh Pham Tuan (first, last, and middle name) from Ho Chi Minh city, Vietnam. I have recently received my bachelor degree in Electronics and Telecommunications Engineering at the Ho Chi Minh city University of Technology.
@@ -27,7 +27,6 @@ Currently, I am looking for a position as a Fresher in the field of AI & ML. The
 ### Ho Chi Minh city University of Technology, Vietnam
 * Time: Sep 2017 – Sep 2021
 * Bachelor of Engineering in Electronics and Telecommunications Engineering
-* GPA: 6.71/10.0  
 
 
 
@@ -39,17 +38,29 @@ Graduation internship
   * Time : Aug 2020 - Sep 2020
   * Research (read, implement, and improve papers) on virtual sample generation methods and Algorithms for Face Recognition problems.
 
+Tavico Digital JSC
+  * Time : Apr 2022 - Jun 2022 : Working as AI Engineer Intern
+  * Collect and pre-process data (select, clean the data to make it usable), Research algorithm and optimal models for Chatbot Appication to Answer customer questions     while using company ERP software.
+
+  * Time : Jul 2022 - Aug 2022 :  Working as AI Engineer
+  * Developed and deploy optimal models for Chatbot Appication to Answer customer questions while using company ERP software
+
+  * Time : Sep 2022 - Sep 2023 : Working as Front End Developer
+  * - Developed E-approval software from Figma design using React and Mui libraries(mui.com)
+    - Developed E-approval app integrate with E-approval Web version.
+    - Developed Customer Support app to record tickets, process tickets and respond to customers
+
   
 
 
 ------
 ## Technicain skill
 
-Language: Python, SQL(Self-study at https://codelearn.io/learning/lam-quen-voi-sql)
+Language: HTML, CSS, Javascript, Python , C#(base) , Java(base), SQL(Self-study at https://codelearn.io/learning/lam-quen-voi-sql)
 
-Framework: TensorFlow, Pytorch
+Database: MySQL
 
-General: Machine Learning, Deep Learning, Computer Vision, and Image Processing.
+Framework: TensorFlow, Pytorch , React , React Native( React Native Paper)
 
 Certificate: TOEIC 730
 
