@@ -25,7 +25,7 @@ Currently, I am looking for a position as a Front End Developer. The topics I am
 
 
 ### Ho Chi Minh city University of Technology, Vietnam
-* Time: Sep 2017 – Sep 2021
+* Time: Sep 2017 – Apr 2022
 * Bachelor of Engineering in Electronics and Telecommunications Engineering
 
 
